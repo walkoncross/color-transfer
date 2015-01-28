@@ -12,3 +12,5 @@ that sometimes transferring 100% of the properties from the reference
 image often leads to overcorrected results; it is often more desirable
 to manipulate the rate of transfer for each channel individually.
 
+This was a course project for Professor Feng Liu's CS510: Visual Computing
+at Portland State University, Winter 2015.
